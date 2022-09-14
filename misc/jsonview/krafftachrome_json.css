@@ -2,7 +2,7 @@ body {
   white-space: pre;
   font-family: monospace;
   background: #2d2d34;
-  color:  #8f999b;
+  color: #cddde1;
 }
 
 .property {
@@ -10,7 +10,7 @@ body {
 }
 
 .type-null {
-  color: #9da883;
+  color: #c15055;
 }
 
 .type-boolean {
@@ -33,7 +33,7 @@ body {
   content: "-";
 }
 
-.collapsed > .collapser:after {
+.collapsed>.collapser:after {
   content: "+";
 }
 

@@ -17,7 +17,7 @@ const colors = {
   lightWhite: '#b8aab7'
 };
 const otherColors = {
-  foregroundColor: '#8f999b',
+  foregroundColor: '#cddde1',
   backgroundColor: '#2d2d34',
   cursorColor: '#635562',
   selectionColor: 'rgba(90, 59, 69, 0.5)',
